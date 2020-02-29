@@ -1,3 +1,5 @@
+This is classic React knowledge
+
 # Welcome to React Training!
 
 This repo contains the latest course material for [React Training](https://reacttraining.com/).
